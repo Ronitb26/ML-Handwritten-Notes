@@ -18,20 +18,6 @@ Welcome to my repository of **handwritten notes** from the highly-regarded [Camp
 
 ---
 
-## 🗂️ Folder Structure
-
-```
-📁 CampusX-DS-Notes/
-├── Statistics/
-├── Machine-Learning/
-├── Deep-Learning/
-├── EDA/
-├── Projects/
-├── SQL/
-├── Python/
-└── Miscellaneous/
-```
-
 > Each folder contains scanned or photographed **handwritten notes** in organized order with clear titles and page numbers for easy navigation.
 
 ---
