@@ -1,6 +1,6 @@
 # 📓 Data Science Mentorship Program Notes – CampusX
 
-Welcome to my repository of **handwritten notes** from the highly-regarded [CampusX Data Science Mentorship Program](https://www.campusx.in/). This program covered a full-stack curriculum for data science and machine learning, and these notes reflect key concepts, intuition, examples, and frameworks discussed throughout the journey.
+Welcome to my repository of **handwritten notes** from the highly-regarded [CampusX Data Science Mentorship Program](https://www.learnwith.campusx.in/). This program covered a full-stack curriculum for data science and machine learning, and these notes reflect key concepts, intuition, examples, and frameworks discussed throughout the journey.
 
 ---
 
