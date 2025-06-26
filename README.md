@@ -1,6 +1,6 @@
 # 📓 Data Science Mentorship Program Notes – CampusX
 
-Welcome to my repository of **handwritten notes** from the highly-regarded [CampusX Data Science Mentorship Program](https://learnwith.campusx.in/). This program covered a full-stack curriculum for data science and machine learning, and these notes reflect key concepts, intuition, examples, and frameworks discussed throughout the journey.
+Welcome to my repository of **handwritten notes** from the highly-regarded CampusX Data Science Mentorship Program. This program covered a full-stack curriculum for data science and machine learning, and these notes reflect key concepts, intuition, examples, and frameworks discussed throughout the journey.
 
 ---
 
@@ -38,22 +38,6 @@ Handwritten notes are:
 * Tips and tricks for feature engineering & data cleaning.
 * Visual explanations of statistical concepts.
 * Step-by-step problem-solving approaches
-
----
-
-## 🚀 Projects Covered
-
-Some mini and major projects documented:
-
-* Customer Churn Prediction
-* Car Price Prediction
-* Credit Card Fraud Detection
-* Movie Recommendation System
-* Resume Screening with NLP
-
----
-
-## 📝 Sample Notes Preview
 
 ---
 
